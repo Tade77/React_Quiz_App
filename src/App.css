@@ -1,0 +1,9 @@
+.home {
+  display: flex;
+  flex-direction: column;
+}
+.btns {
+  background-color: blue;
+  margin-bottom: 20px;
+  color: white;
+}
